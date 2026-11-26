@@ -9,3 +9,10 @@ It's been a while; I have actually coded, and due to AI, I'm bored of relearning
 Being proficient at editing photos on Snapseed was great on mobile when we want to edit a few photos, but when the workload increases, a PC or laptop is the chosen device. Since Google took down Snapseed for desktop, there was no easy-to-use photo editing software with advanced features like Snapseed. So, this is an attempt to make one, but web-based first.
 
 It uses the same method that we are aware of in Snapseed, which is with sliders and numbers. With easy access to important buttons like reset within the mouse pointer's reach. 
+
+
+## How to use 
+
+1. Open the snapseed_studio_web(1).html
+2. Click the Download button on the top right side of the editor
+3. You are good to go....
